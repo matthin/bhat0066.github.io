@@ -1,16 +1,3 @@
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
-<script type="text/javascript">
-  /*
-     ___________________________
-    < Hi! Fellow Code Wrangler! >
-     ---------------------------
-            \   ^__^
-             \  (00)\_______
-                (__)\       )\/\
-                  U ||----w |
-                    ||     ||
-  */
-</script>
 <script type="text/javascript">
   	function PopUp(hideOrshow) {
     if (hideOrshow == 'hide') document.getElementById('ac-wrapper').style.display = "none";
