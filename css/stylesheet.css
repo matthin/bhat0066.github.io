@@ -63,7 +63,7 @@ div.output {
     z-index: 1001;
 }
 #popup {
-    width: 100%;
+    width: 80%;
     height: height-length;
     background: #FFFFFF;
     border: 5px solid #000;
