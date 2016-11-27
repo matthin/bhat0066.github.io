@@ -1,4 +1,3 @@
-<script type="text/javascript">
   	function PopUp(hideOrshow) {
     if (hideOrshow == 'hide') document.getElementById('ac-wrapper').style.display = "none";
     else document.getElementById('ac-wrapper').removeAttribute('style');
@@ -8,9 +7,7 @@
           PopUp('show');
       });
   }
-</script>
-  
-<script type="text/javascript">
+
   $(document).ready(function() {
     $('#hiddenBox').focus();
     $('#hiddenBox').val('');
@@ -84,4 +81,3 @@
       }
     });
   });
-</script>
